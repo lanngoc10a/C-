@@ -1,0 +1,6 @@
+/Users/lan/Projects/1.2/1.2/bin/Debug/1.2.exe
+/Users/lan/Projects/1.2/1.2/bin/Debug/1.2.pdb
+/Users/lan/Projects/1.2/1.2/obj/Debug/1.2.csproj.AssemblyReference.cache
+/Users/lan/Projects/1.2/1.2/obj/Debug/1.2.csproj.CoreCompileInputs.cache
+/Users/lan/Projects/1.2/1.2/obj/Debug/1.2.exe
+/Users/lan/Projects/1.2/1.2/obj/Debug/1.2.pdb

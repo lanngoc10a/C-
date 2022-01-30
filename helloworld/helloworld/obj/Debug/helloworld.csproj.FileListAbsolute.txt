@@ -1,0 +1,6 @@
+/Users/lan/Downloads/Github/C#/helloworld/helloworld/bin/Debug/helloworld.exe
+/Users/lan/Downloads/Github/C#/helloworld/helloworld/bin/Debug/helloworld.pdb
+/Users/lan/Downloads/Github/C#/helloworld/helloworld/obj/Debug/helloworld.csproj.AssemblyReference.cache
+/Users/lan/Downloads/Github/C#/helloworld/helloworld/obj/Debug/helloworld.csproj.CoreCompileInputs.cache
+/Users/lan/Downloads/Github/C#/helloworld/helloworld/obj/Debug/helloworld.exe
+/Users/lan/Downloads/Github/C#/helloworld/helloworld/obj/Debug/helloworld.pdb

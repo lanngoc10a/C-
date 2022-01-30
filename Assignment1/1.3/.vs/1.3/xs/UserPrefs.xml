@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A4BDE3DE-A6EF-4D12-8A59-B6D80B181770}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.3/Program.cs">
+    <Files>
+      <File FileName="1.3/Program.cs" Line="13" Column="13" />
+      <File FileName="../1.2/1.2/Program.cs" Line="13" Column="13" />
+      <File FileName="../1.1/1.1/Program.cs" Line="10" Column="48" />
+      <File FileName="../../Downloads/Github/C#/helloworld/helloworld/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1.3" expanded="True">
+            <Node name="1.3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1.3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
