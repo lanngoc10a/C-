@@ -1,0 +1,5 @@
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/A2/bin/Debug/A2.exe
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/A2/bin/Debug/A2.pdb
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/A2/obj/anycpu/Debug/A2.csproj.CoreCompileInputs.cache
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/A2/obj/anycpu/Debug/A2.exe
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/A2/obj/anycpu/Debug/A2.pdb

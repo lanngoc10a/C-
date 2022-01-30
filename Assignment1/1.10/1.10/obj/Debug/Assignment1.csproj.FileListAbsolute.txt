@@ -1,0 +1,6 @@
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/1.10/bin/Debug/1.10.exe
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/1.10/bin/Debug/1.10.pdb
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/1.10/obj/Debug/Assignment1.csproj.CoreCompileInputs.cache
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/1.10/obj/Debug/1.10.exe
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/1.10/obj/Debug/1.10.pdb
+/Users/lan/Downloads/Github/C#/Assignment1/1.10/1.10/obj/Debug/Assignment1.csproj.AssemblyReference.cache
