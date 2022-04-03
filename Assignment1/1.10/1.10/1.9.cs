@@ -2,9 +2,9 @@
 
 namespace Application
 {
-    class E1_9
+    class E1_10
     {
-        public static void E1_9(string[] args)
+        public static void E1_10(string[] args)
         {
             Console.WriteLine("How many seconds do you have available?");
             int second = Convert.ToInt32(Console.ReadLine());

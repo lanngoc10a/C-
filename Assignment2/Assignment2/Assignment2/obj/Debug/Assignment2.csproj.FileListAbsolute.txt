@@ -1,0 +1,6 @@
+/Users/lan/Downloads/Github/C#/C-/Assignment2/Assignment2/Assignment2/bin/Debug/Assignment2.exe
+/Users/lan/Downloads/Github/C#/C-/Assignment2/Assignment2/Assignment2/bin/Debug/Assignment2.pdb
+/Users/lan/Downloads/Github/C#/C-/Assignment2/Assignment2/Assignment2/obj/Debug/Assignment2.csproj.AssemblyReference.cache
+/Users/lan/Downloads/Github/C#/C-/Assignment2/Assignment2/Assignment2/obj/Debug/Assignment2.csproj.CoreCompileInputs.cache
+/Users/lan/Downloads/Github/C#/C-/Assignment2/Assignment2/Assignment2/obj/Debug/Assignment2.exe
+/Users/lan/Downloads/Github/C#/C-/Assignment2/Assignment2/Assignment2/obj/Debug/Assignment2.pdb
